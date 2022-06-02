@@ -96,6 +96,15 @@
     list-style: none;
     padding-bottom: 10px;
 }
+.menu-2 {
+    margin-top: 10px;
+}
+.menu-2 li{
+    color: #fff;
+    margin-left: 20px;
+    list-style: none;
+    padding-bottom: 10px;
+}
 .bot-item-3{
     margin-top: 0px;
 }
